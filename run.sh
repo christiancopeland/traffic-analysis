@@ -1,0 +1,1 @@
+sudo ~/miniconda3/envs/scapy/bin/python gen_network_diagram.py -pc  100 -i wlp9s0 -g True -p True
