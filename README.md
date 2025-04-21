@@ -34,10 +34,12 @@ It is recommended to use [Miniconda](https://docs.conda.io/en/latest/miniconda.h
 # Create and activate the environment (replace with your environment setup as needed)
 conda create -n scapy python=3.10
 conda activate scapy
+conda install pip 
+~/miniconda3/envs/scapy/bin/pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 
-Or, if you use `requirements.txt`:
+Or, if you use pip outside of an environment:
 ```bash
 pip install -r requirements.txt
 ```
@@ -49,8 +51,6 @@ pip install -r requirements.txt
 - matplotlib  
 - numpy  
 - requests 
-
-*(add any others you have in requirements.txt)*
 
 ---
 
