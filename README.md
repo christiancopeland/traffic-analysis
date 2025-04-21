@@ -22,8 +22,8 @@ This project is an interactive dashboard for capturing, analyzing, and visually 
 ### 1. Clone the Repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/christiancopeland/traffic-analysis.git
+cd traffic-analysis
 ```
 
 ### 2. Install Dependencies
