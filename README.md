@@ -36,7 +36,6 @@ conda create -n scapy python=3.10
 conda activate scapy
 conda install pip 
 ~/miniconda3/envs/scapy/bin/pip install -r requirements.txt
-pip install -r requirements.txt
 ```
 
 Or, if you use pip outside of an environment:
