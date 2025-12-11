@@ -1,0 +1,1 @@
+sudo ~/miniconda3/envs/scapy/bin/python ~/cybersecurity/network_diagram/dash_port/gen_network_diagram.py -pc  100 -i wlp10s0 -g True -p True
